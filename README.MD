@@ -34,8 +34,8 @@ Copy repository to your machine, in root project director is all set up shortcut
 
 To make it look nicer, you can add custom shortcut icon from icons folder, so when you pin it to your taskbar you will know what this shortcut is for.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/gray.png" width="200" height="200"> 
-  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/navy.png" width="200" height="200">
-  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/green.png" width="200" height="200">
-  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/pink.png" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/gray.png" width="150" height="150"> 
+  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/navy.png" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/green.png" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/pink.png" width="150" height="150">
 </p>
