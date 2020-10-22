@@ -27,10 +27,13 @@ $GUID  =  "381b4222-f694-41f0-9685-ff5bb260df2e"
 ```
 Depending on what power plan option you are currently running, you have to set GUID variable to match your settings.
 ### Usage
-Copy repository to your machine, in root project director is all set up shortcut that can be used e.g. to pin quick toogle to taskbar. When clicked, message box will show up informing if boost is on or off.
+Copy repository to your machine, in root project director is all set up shortcut that can be used e.g. to pin quick toogle to taskbar. When clicked, message box will show up information if boost is on or off.
 
 ![on](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/ON.png)
 ![off](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/OFF.png)
 
 To make it look nicer, you can add custom shortcut icon from icons folder, so when you pin it to your taskbar you will know what this shortcut is for.
-![off](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/green.png)
+![green](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/green.png=128x128)
+![navy](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/navy.png=128x128)
+![gray](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/gray.png=128x128)
+![pink](https://raw.githubusercontent.com/MaSobkowiak/Powershell-Scripts/master/Processor%20boost/assets/pink.png=128x128)
